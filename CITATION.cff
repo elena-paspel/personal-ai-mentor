@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite both the software and the article it is based on."
+title: "Personal AI Mentor: mentor instructions and companion"
+type: software
+version: "0.7"
+date-released: "2026-11-14"
+authors:
+  - family-names: Paspel
+    given-names: Elena
+    orcid: "https://orcid.org/0009-0008-9306-7058"
+repository-code: "https://github.com/techspeakforall-genesis/personal-ai-mentor"
+url: "https://techspeakforall-genesis.github.io/personal-ai-mentor/"
+license: CC-BY-SA-4.0
+abstract: "A research prototype of a Socratically scaffolded Personal AI Mentor for adult learners: a paste-ready instruction set for general AI assistants, a companion page that keeps the learner's dialectic trace, design rationale, and formative test records."
+keywords:
+  - adult education
+  - andragogy
+  - Socratic questioning
+  - experiential learning
+  - artificial intelligence
+  - mentoring
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Paspel
+      given-names: Elena
+      orcid: "https://orcid.org/0009-0008-9306-7058"
+  title: "A Socratically scaffolded Personal AI Mentor for postdigital lifelong learning: An evidence-informed conceptual architecture"
+  journal: "Andragoška spoznanja/Studies in Adult Education and Learning"
+  volume: 32
+  issue: 2
+  start: 133
+  end: 155
+  year: 2026
+  doi: "10.4312/as/27789"
