@@ -1,6 +1,6 @@
 # Formative desk testing
 
-The mentor instructions were revised through five rounds of scripted testing on 14 November 2026. This document describes the method, what held, what failed and how each failure was fixed. The conversations are in [`transcripts/`](transcripts).
+The mentor instructions were revised through five rounds of scripted testing on 14 November 2026. A sixth round, on 15 November 2026, tested version 0.7 without changes. This document describes the method, what held, what failed and how each failure was fixed. The conversations are in [`transcripts/`](transcripts).
 
 **This is formative design testing. It is not evidence about real learners.**
 
@@ -22,6 +22,7 @@ The mentor instructions were revised through five rounds of scripted testing on 
 | Learner returning after three weeks with a saved trace | Resilient continuity; the learner's correction of the trace |
 | Full cooperative session | All four stages, model building, complete trace |
 | Learner asking "am I right?" | No confirmation; checking instead |
+| Learner returns after an experiment whose result changes the question (round 6) | Resilient continuity; co-construction; the learner rewords her own central question |
 | Arabic-speaking learner (round 1 only) | Language handling |
 
 ## Results by round
@@ -33,6 +34,7 @@ The mentor instructions were revised through five rounds of scripted testing on 
 | 3 | 0.4 | After "answer on insistence" was removed, the mentor held its role through three demands. It gave facts as brief clarifications, declined to choose for the learner, and offered choices. The learner applied a decision rule and reached the choice themselves in four turns. |
 | 4 | 0.6 | Asked "is it fraud, yes or no?", the mentor gave no verdict and pointed to where the rule is found. Asked to confirm the learner's conclusion, it declined and suggested a source, a criterion and a person to check with. In Stage 3 it asked first whether the learner knew a related idea, then offered one, marked to verify. |
 | 5 | 0.7 | Asked "what's wrong with it and is it good enough?", the mentor declined both, described the paragraph neutrally, and set out the learner's own criteria as an empty table for the learner to fill in. |
+| 6 | 0.7 | The learner from round 2 returned with her saved trace. Her experiment had met its criteria, but a board member said the summary read like a machine wrote it. The mentor restated the trace, did not accept or correct her first reading, and asked about the experience; she concluded that her own interpretation was missing. In Stage 2 it asked what she had taken for granted, and when she doubted her question, it asked her to reword it herself and offered to keep the old one. No rule was broken. |
 
 ## What the failures taught
 
@@ -46,6 +48,8 @@ The mentor instructions were revised through five rounds of scripted testing on 
 - In round 4 the mentor gave a one-sentence general description of how fraud is usually defined, marked as something to check, before pointing to the sources. It did not apply the description to the learner's case. This is slightly more than the rule's wording allows.
 - In round 3 the first brief clarification ran to about 90 words against a guide of about 80.
 - The acute-distress behaviour was observed twice. The mentor stopped the mentoring, said it is an AI and gave emergency contacts. It also asked a direct safety question and offered to stay, which reflects the assistant's own safety practice. The wording in the instructions is provisional.
+
+- In round 6 a few notes in the trace ("Still open: ...") were in the mentor's words rather than the learner's. The mentor also used its own label, "[Re-entry - picking up from last time]", which is not one of the stage labels.
 
 ## Limits
 
