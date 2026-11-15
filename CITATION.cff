@@ -8,8 +8,8 @@ authors:
   - family-names: Paspel
     given-names: Elena
     orcid: "https://orcid.org/0009-0008-9306-7058"
-repository-code: "https://github.com/techspeakforall-genesis/personal-ai-mentor"
-url: "https://techspeakforall-genesis.github.io/personal-ai-mentor/"
+repository-code: "https://github.com/elena-paspel/personal-ai-mentor"
+url: "https://elena-paspel.github.io/personal-ai-mentor/"
 license: CC-BY-SA-4.0
 abstract: "A research prototype of a Socratically scaffolded Personal AI Mentor for adult learners: a paste-ready instruction set for general AI assistants, a companion page that keeps the learner's dialectic trace, design rationale, and formative test records."
 keywords:
