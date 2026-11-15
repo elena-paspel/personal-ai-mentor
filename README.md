@@ -57,7 +57,7 @@ The design rests on Dewey's pragmatism and transactional realism, and integrates
 
 ## Evidence so far, and its limits
 
-The instructions were revised through five rounds of formative desk testing. Scripted learners (one with no clear goal, one demanding quick answers, one facing an ethical dilemma, one returning after three weeks, and others) were run against a fresh AI assistant that had seen only the instructions. Failures in early versions led to the rules described above. Details are in [`docs/testing.md`](docs/testing.md).
+The instructions were revised through six rounds of formative desk testing. Scripted learners (one with no clear goal, one demanding quick answers, one facing an ethical dilemma, one returning after three weeks, and others) were run against a fresh AI assistant that had seen only the instructions. Failures in early versions led to the rules described above. Details are in [`docs/testing.md`](docs/testing.md).
 
 This is not evidence about real learners. Each scenario was run once, on one AI assistant, with scripted learner turns. Whether the design preserves agency, deepens reflection or transfers to practice for actual adults is the question the planned research is meant to answer.
 
