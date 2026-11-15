@@ -34,7 +34,7 @@ The aim is not to reproduce human mentorship. It is to design AI support that pr
 3. Answer the mentor's first question. Type `pause` when you want to stop; the mentor shows your trace. Save it.
 4. Next time, paste the instructions again, followed by your saved trace.
 
-The companion page does steps 1 and 4 with one button and keeps the trace for you. Once GitHub Pages is switched on for this repository, it is live at https://techspeakforall-genesis.github.io/personal-ai-mentor/
+The companion page does steps 1 and 4 with one button and keeps the trace for you. It is live at https://elena-paspel.github.io/personal-ai-mentor/
 
 ## The design in brief
 
@@ -79,7 +79,7 @@ The architecture, the design decisions and the resolution of every test failure 
 
 Please cite the article above. To cite this prototype specifically:
 
-> Paspel, E. (2026). *Personal AI Mentor: mentor instructions and companion* (version 0.7) [Research prototype] https://github.com/techspeakforall-genesis/personal-ai-mentor
+> Paspel, E. (2026). *Personal AI Mentor: mentor instructions and companion* (version 0.7) [Research prototype]. https://github.com/elena-paspel/personal-ai-mentor
 >
 > Author ORCID: https://orcid.org/0009-0008-9306-7058
 
