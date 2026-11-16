@@ -79,7 +79,7 @@ The architecture, the design decisions and the resolution of every test failure 
 
 Please cite the article above. To cite this prototype specifically:
 
-> Paspel, E. (2026). *Personal AI Mentor: mentor instructions and companion* (version 0.7) [Research prototype]. https://github.com/elena-paspel/personal-ai-mentor
+> Paspel, E. (2026). *Personal AI Mentor: mentor instructions and companion* (version 0.7) [Research prototype]. https://doi.org/10.5281/zenodo.24280793
 >
 > Author ORCID: https://orcid.org/0009-0008-9306-7058
 
