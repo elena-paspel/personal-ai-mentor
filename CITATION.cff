@@ -3,6 +3,7 @@ message: "If you use this material, please cite both the software and the articl
 title: "Personal AI Mentor: mentor instructions and companion"
 type: software
 version: "0.7"
+doi: "10.5281/zenodo.24280793"
 date-released: "2026-11-14"
 authors:
   - family-names: Paspel
